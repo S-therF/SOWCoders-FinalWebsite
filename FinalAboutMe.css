@@ -1,0 +1,42 @@
+body {
+  background-color: #F1CBA5
+}
+
+.menu {
+  text-align: center;
+  display: block
+  padding: 15px;
+  color: black;
+  background-color: #FEEAD6;
+  }
+
+  .AMPg {
+    text-align: center;
+    color: #530A0A;
+    font-style: italic;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+
+  p {
+    text-align: left;
+    font-size: 20px;
+    font-family: cursive;
+    margin: 20px 170px;
+  }
+
+ul {
+    text-align: left;
+    font-size: 20px;
+    font-family: cursive;
+    margin: 20px 170px;
+  }
+
+  img {
+    width: 25%;
+    height: 20%;
+  }
+
+  .centerimage {
+    text-align: center;
+  }

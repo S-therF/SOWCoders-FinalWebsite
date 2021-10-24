@@ -1,0 +1,42 @@
+body {
+  background-color: #F1CBA5
+}
+
+.menu, .footerbar {
+  text-align: center;
+  display: block
+  padding: 0px;
+  color: black;
+  background-color: #FEEAD6;
+  }
+
+  .AdPg {
+    text-align: center;
+    color: #530A0A;
+    font-style: italic;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+
+  img {
+    width: 50%;
+    height: 20%;
+  }
+
+  .centerimage {
+    text-align: center;
+  }
+
+  p {
+    text-align: left;
+    font-size: 20px;
+    font-family: cursive;
+    margin: 20px 170px;
+  }
+
+ul {
+  text-align: left;
+  font-size: 20px;
+  font-family: cursive;
+  margin: 20px 170px;
+}
