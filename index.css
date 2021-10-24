@@ -15,6 +15,12 @@ img {
   height: 50%;
 }
 
+.brandlogo {
+  width: 15%;
+  height: 25%;
+  padding-left: 25px;
+}
+
 .centerimage {
   text-align: center;
 }

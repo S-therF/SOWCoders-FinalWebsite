@@ -2,12 +2,18 @@ body {
   background-color: #F1CBA5
 }
 
-.menu {
+.menu, .footerbar {
   text-align: center;
   display: block
   padding: 15px;
   color: black;
   background-color: #FEEAD6;
+  }
+
+  .brandlogo {
+    width: 32%;
+    height: 43%;
+    padding-left: 25px;
   }
 
   .AMPg {
@@ -23,6 +29,10 @@ body {
     font-size: 20px;
     font-family: cursive;
     margin: 20px 170px;
+  }
+
+  .centerimage {
+    text-align: center;
   }
 
 ul {

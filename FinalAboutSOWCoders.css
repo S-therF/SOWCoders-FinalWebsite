@@ -10,6 +10,12 @@ body {
   background-color: #FEEAD6;
   }
 
+  .brandlogo {
+    width: 17%;
+    height: 27%;
+    padding-left: 25px;
+  }
+
   .AdPg {
     text-align: center;
     color: #530A0A;
